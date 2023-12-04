@@ -1,0 +1,11 @@
+{
+  "name": "osfatun-design",
+  "version": "1.0.0",
+  "description": "diseño pasado a css",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fclaiba",
+  "license": "ISC"
+}
